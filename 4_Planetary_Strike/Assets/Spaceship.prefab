@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4945554296969854503}
   - component: {fileID: 4961044592242538753}
   - component: {fileID: 4971306516394973089}
+  - component: {fileID: 2139674949}
   m_Layer: 0
   m_Name: Spaceship
   m_TagString: Untagged
@@ -81,3 +82,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &2139674949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4949345018164600301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9ce6763057dbac45ad07147a8f9cc40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 15
+  xRange: 5.5
+  yRange: 3
+  positionPitchFactor: -5
+  controlPitchFactor: -15
+  positionYawFactor: 5
+  controlRollFactor: -15
