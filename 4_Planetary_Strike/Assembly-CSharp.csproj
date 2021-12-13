@@ -52,6 +52,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\CollisionHandler.cs" />
      <Compile Include="Assets\Asset Packs\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
@@ -148,6 +149,7 @@
      <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
+     <Compile Include="Assets\Scripts\SceneLoader.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Cameras\Scripts\LookatTarget.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Vehicles\Car\Scripts\CarAudio.cs" />
@@ -157,8 +159,6 @@
      <Compile Include="Assets\Asset Packs\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-     <Compile Include="Assets\Scripts\SceneLoader.cs" />
-     <Compile Include="Assets\Scripts\CollisionHandler.cs" />
      <None Include="Assets\Asset Packs\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Asset Packs\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
      <None Include="Assets\Asset Packs\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />

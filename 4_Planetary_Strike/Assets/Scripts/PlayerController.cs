@@ -6,6 +6,8 @@ using UnityStandardAssets.CrossPlatformInput;
 
 public class PlayerController : MonoBehaviour
 {
+    //todo work-out why sometimes slow on first play of scene
+    
     [Header("General")]
     [Tooltip ("In m/s")][SerializeField] private float controlSpeed = 4f;
     [Tooltip ("In m")][SerializeField] private float xRange = 4f;
@@ -22,10 +24,9 @@ public class PlayerController : MonoBehaviour
     private bool isControlEnabled = true;
     private float xThrow, yThrow;
 
-    private void OnPlayerDeath() //called by string reference
+    public void OnPlayerDeath() //called by string reference
     {
         isControlEnabled = false;
-        Debug.Log("Controls frozen");
     }
 
     private void Update()
