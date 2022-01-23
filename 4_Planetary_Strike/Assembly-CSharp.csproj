@@ -111,6 +111,7 @@
      <Compile Include="Assets\Asset Packs\Standard Assets\ParticleSystems\Scripts\FireLight.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
      <Compile Include="Assets\Asset Packs\SampleScenes\Scripts\CameraSwitch.cs" />
+     <Compile Include="Assets\Scripts\Enemy.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Utility\CurveControlledBob.cs" />
@@ -159,7 +160,6 @@
      <Compile Include="Assets\Asset Packs\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-     <Compile Include="Assets\Scripts\Enemy.cs" />
      <None Include="Assets\Asset Packs\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Asset Packs\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
      <None Include="Assets\Asset Packs\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
