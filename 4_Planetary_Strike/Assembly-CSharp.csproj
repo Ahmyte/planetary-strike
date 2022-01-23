@@ -160,6 +160,7 @@
      <Compile Include="Assets\Asset Packs\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Utility\SimpleActivatorMenu.cs" />
+     <Compile Include="Assets\Scripts\SelfDestructor.cs" />
      <None Include="Assets\Asset Packs\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Asset Packs\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
      <None Include="Assets\Asset Packs\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />

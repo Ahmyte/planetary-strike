@@ -1,10 +1,10 @@
-using System;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
     private Collider collider;
     [SerializeField] private GameObject deathFX;
+    [SerializeField] private Transform parentDirectory;
     private void Start()
     {
         collider = gameObject.AddComponent<BoxCollider>();
@@ -13,7 +13,8 @@ public class Enemy : MonoBehaviour
 
     private void OnParticleCollision(GameObject other)
     {
-        Instantiate(deathFX, transform.position, Quaternion.identity);
+        GameObject fx = Instantiate(deathFX, transform.position, Quaternion.identity);
+        fx.transform.parent = parentDirectory;
         Destroy(gameObject);
     }
 }
