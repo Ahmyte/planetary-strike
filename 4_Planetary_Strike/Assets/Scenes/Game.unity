@@ -186,6 +186,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: 3492949832856623421, guid: 5f0acb7fcf73f9b43beff0e0f19c45da,
         type: 3}
+      propertyPath: scorePerHit
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 3492949832856623421, guid: 5f0acb7fcf73f9b43beff0e0f19c45da,
+        type: 3}
       propertyPath: parentDirectory
       value: 
       objectReference: {fileID: 72914753}
@@ -784,6 +789,11 @@ PrefabInstance:
         type: 3}
     - target: {fileID: -3203548825671815334, guid: bf374732b0ea2c34daa340dc2de7f746,
         type: 3}
+      propertyPath: scorePerHit
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: -3203548825671815334, guid: bf374732b0ea2c34daa340dc2de7f746,
+        type: 3}
       propertyPath: parentDirectory
       value: 
       objectReference: {fileID: 72914753}
@@ -921,10 +931,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -1020,6 +1030,7 @@ GameObject:
   - component: {fileID: 1787878798}
   - component: {fileID: 1787878800}
   - component: {fileID: 1787878799}
+  - component: {fileID: 1787878801}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -1088,6 +1099,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1787878797}
   m_CullTransparentMesh: 1
+--- !u!114 &1787878801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1787878797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5027f0c7a31e2ef4f855598d01620768, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  score: 0
 --- !u!850595691 &1853968163
 LightingSettings:
   m_ObjectHideFlags: 0
@@ -1168,6 +1192,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4301164340386225991, guid: 87d7fd1869b3b84469f5507658ba9dba,
         type: 3}
+    - target: {fileID: -3254443518212902061, guid: e14d375f5a36551479fc2f172353b1ba,
+        type: 3}
+      propertyPath: scorePerHit
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: -3254443518212902061, guid: e14d375f5a36551479fc2f172353b1ba,
         type: 3}
       propertyPath: parentDirectory
@@ -1278,6 +1307,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4301164340386225991, guid: 87d7fd1869b3b84469f5507658ba9dba,
         type: 3}
+    - target: {fileID: -3203548825671815334, guid: bf374732b0ea2c34daa340dc2de7f746,
+        type: 3}
+      propertyPath: scorePerHit
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: -3203548825671815334, guid: bf374732b0ea2c34daa340dc2de7f746,
         type: 3}
       propertyPath: parentDirectory
