@@ -4,6 +4,8 @@ using UnityStandardAssets.CrossPlatformInput;
 public class PlayerController : MonoBehaviour
 {
     //todo work-out why sometimes slow on first play of scene
+
+    [SerializeField] private GameObject[] guns;
     
     [Header("General")]
     [Tooltip ("In m/s")][SerializeField] private float controlSpeed = 4f;
@@ -32,6 +34,7 @@ public class PlayerController : MonoBehaviour
         {
             ProcessTranslation();
             ProcessRotation();
+            ProcessFiring();
         }
     }
 
@@ -70,5 +73,32 @@ public class PlayerController : MonoBehaviour
         float yOffset = yThrow * controlSpeed * Time.deltaTime;
         float clampedYPos = Mathf.Clamp(transform.localPosition.y + yOffset, -yRange, yRange);
         return clampedYPos;
+    }
+
+    private void ProcessFiring()
+    {
+        if (CrossPlatformInputManager.GetButton("Fire"))
+        {
+            ActivateGuns();
+        }
+        else
+        {
+            DeactivateGuns();
+        }
+    }
+
+    private void ActivateGuns()
+    {
+        foreach (GameObject gun in guns)
+        {
+            gun.SetActive(true);
+        }
+    }
+    private void DeactivateGuns()
+    {
+        foreach (GameObject gun in guns)
+        {
+            gun.SetActive(false);
+        }
     }
 }
