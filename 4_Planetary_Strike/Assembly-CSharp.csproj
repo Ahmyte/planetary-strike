@@ -79,6 +79,7 @@
      <Compile Include="Assets\Asset Packs\Standard Assets\Vehicles\Car\Scripts\CarController.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Utility\SmoothFollow.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Cameras\Scripts\FreeLookCam.cs" />
+     <Compile Include="Assets\Scripts\ScoreBoard.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneController.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\ParticleSystems\Scripts\ExplosionPhysicsForce.cs" />
@@ -161,7 +162,6 @@
      <Compile Include="Assets\Asset Packs\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Utility\FPSCounter.cs" />
      <Compile Include="Assets\Asset Packs\Standard Assets\Utility\SimpleActivatorMenu.cs" />
-     <Compile Include="Assets\Scripts\ScoreBoard.cs" />
      <None Include="Assets\Asset Packs\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Asset Packs\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
      <None Include="Assets\Asset Packs\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
