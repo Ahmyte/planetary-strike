@@ -187,3 +187,315 @@ System memory in use after: 88.3 MB.
 Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2014.
 Total: 12.480100 ms (FindLiveObjects: 0.494800 ms CreateObjectMapping: 0.126800 ms MarkObjects: 10.734300 ms  DeleteObjects: 1.122200 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 4694.554308 seconds.
+  path: Assets/Audio/Slackbar Assets
+  artifactKey: Guid(81b09b626f50f48498774aadd7ba839e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets using Guid(81b09b626f50f48498774aadd7ba839e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df073f1ef4fbb0994d37ed33dfad7ad2') in 0.009772 seconds
+  Import took 0.028644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.932744 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Get To The Mines.ogg
+  artifactKey: Guid(d15a94c172ef8c24a9c88bca5e4ef1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Get To The Mines.ogg using Guid(d15a94c172ef8c24a9c88bca5e4ef1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bbc3e17f6dfa24d830a6571be9be570') in 0.198815 seconds
+  Import took 0.201361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.024256 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Holy Mother.ogg
+  artifactKey: Guid(ce3c4aabf87f6b94e995c97eae9ff2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Holy Mother.ogg using Guid(ce3c4aabf87f6b94e995c97eae9ff2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36037fe01bca6527cda40618dcb9b855') in 0.011175 seconds
+  Import took 0.042746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.544681 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Hitting Shield Generators.ogg
+  artifactKey: Guid(56992549c7db19d4e8b29d47cea5e8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Hitting Shield Generators.ogg using Guid(56992549c7db19d4e8b29d47cea5e8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f1eabc6f745190c2488005a8a10228') in 0.010419 seconds
+  Import took 0.013037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000738 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Hitting Shield Generators.ogg
+  artifactKey: Guid(56992549c7db19d4e8b29d47cea5e8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Hitting Shield Generators.ogg using Guid(56992549c7db19d4e8b29d47cea5e8ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f1eabc6f745190c2488005a8a10228') in 0.007135 seconds
+  Import took 0.010045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.299082 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Incoming Sector 5.ogg
+  artifactKey: Guid(cd3b384b18cf5e64185d847b6a579ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Incoming Sector 5.ogg using Guid(cd3b384b18cf5e64185d847b6a579ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec62ff5296621b152fc9834a3d4c49c') in 0.009393 seconds
+  Import took 0.012249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.090653 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Theyre Everywhere.ogg
+  artifactKey: Guid(fdaaa85fe6db7c34f87e432f727e7287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Theyre Everywhere.ogg using Guid(fdaaa85fe6db7c34f87e432f727e7287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c0ea8943c81d6f8a126df406bb35f8') in 0.013321 seconds
+  Import took 0.015846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002023 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Theyre Everywhere.ogg
+  artifactKey: Guid(fdaaa85fe6db7c34f87e432f727e7287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Theyre Everywhere.ogg using Guid(fdaaa85fe6db7c34f87e432f727e7287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c0ea8943c81d6f8a126df406bb35f8') in 0.007895 seconds
+  Import took 0.010845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.510507 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Under Attack.ogg
+  artifactKey: Guid(4bf63ad534fa8284daca8da22523d4f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Under Attack.ogg using Guid(4bf63ad534fa8284daca8da22523d4f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117c1648ebe5e6ae3a58d0f332a47c30') in 0.010433 seconds
+  Import took 0.012920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002140 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Under Attack.ogg
+  artifactKey: Guid(4bf63ad534fa8284daca8da22523d4f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Under Attack.ogg using Guid(4bf63ad534fa8284daca8da22523d4f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117c1648ebe5e6ae3a58d0f332a47c30') in 0.006186 seconds
+  Import took 0.008653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.786511 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Worst Of It.ogg
+  artifactKey: Guid(5e121ab5c359b8945a40943eed526cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Worst Of It.ogg using Guid(5e121ab5c359b8945a40943eed526cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b07a42fa99412c703979f3cfb0fbb19') in 0.010978 seconds
+  Import took 0.014055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002472 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_Worst Of It.ogg
+  artifactKey: Guid(5e121ab5c359b8945a40943eed526cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_Worst Of It.ogg using Guid(5e121ab5c359b8945a40943eed526cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b07a42fa99412c703979f3cfb0fbb19') in 0.008897 seconds
+  Import took 0.012199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.215356 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_You Did It.ogg
+  artifactKey: Guid(300d46e8ba53aab4a8c3d657810ff3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_You Did It.ogg using Guid(300d46e8ba53aab4a8c3d657810ff3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8be1afa7b222aec1c6c6e683d85f14') in 0.010271 seconds
+  Import took 0.013012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003085 seconds.
+  path: Assets/Audio/Slackbar Assets/VO_You Did It.ogg
+  artifactKey: Guid(300d46e8ba53aab4a8c3d657810ff3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Slackbar Assets/VO_You Did It.ogg using Guid(300d46e8ba53aab4a8c3d657810ff3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8be1afa7b222aec1c6c6e683d85f14') in 0.007131 seconds
+  Import took 0.010125 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002533 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.869 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1525 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2026.
+Total: 2.164600 ms (FindLiveObjects: 0.175600 ms CreateObjectMapping: 0.057000 ms MarkObjects: 1.624900 ms  DeleteObjects: 0.306000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002226 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1525 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.7 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2029.
+Total: 3.094400 ms (FindLiveObjects: 0.289700 ms CreateObjectMapping: 0.076700 ms MarkObjects: 2.232400 ms  DeleteObjects: 0.494000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 986.818193 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(d9ce6763057dbac45ad07147a8f9cc40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(d9ce6763057dbac45ad07147a8f9cc40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784f0f554dfca3494f006e7e6fa9138a') in 0.086093 seconds
+  Import took 0.216745 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002381 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.393 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1525 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2032.
+Total: 2.925700 ms (FindLiveObjects: 0.260500 ms CreateObjectMapping: 0.082000 ms MarkObjects: 2.049500 ms  DeleteObjects: 0.532200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002299 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.274 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1525 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2035.
+Total: 5.514100 ms (FindLiveObjects: 0.312100 ms CreateObjectMapping: 0.119800 ms MarkObjects: 4.557400 ms  DeleteObjects: 0.523000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002218 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.886 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1525 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2038.
+Total: 2.254700 ms (FindLiveObjects: 0.281900 ms CreateObjectMapping: 0.057700 ms MarkObjects: 1.568500 ms  DeleteObjects: 0.345600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002387 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.028 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1525 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2041.
+Total: 2.746600 ms (FindLiveObjects: 0.242100 ms CreateObjectMapping: 0.068200 ms MarkObjects: 2.058700 ms  DeleteObjects: 0.376300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002164 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.827 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1525 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2044.
+Total: 2.284400 ms (FindLiveObjects: 0.216700 ms CreateObjectMapping: 0.061000 ms MarkObjects: 1.649300 ms  DeleteObjects: 0.355900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002125 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.846 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1525 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.8 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2047.
+Total: 2.914600 ms (FindLiveObjects: 0.406600 ms CreateObjectMapping: 0.302300 ms MarkObjects: 1.760100 ms  DeleteObjects: 0.443900 ms)
+
